@@ -1,4 +1,0 @@
-kkkkexports.register = async (req, res) => {
-  console.log("🔥 REGISTER HIT", req.body);
-  return res.json({ msg: "Working" });
-};
